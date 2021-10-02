@@ -1,6 +1,6 @@
 # Relogio responsivo
 
-- Relógio responsivo usando HTML, CSS, and JAVASCRIPT.
+- Relógio responsivo usando HTML, CSS, e JAVASCRIPT.
 - Contém um relógio de neumorfismo.
 - E também um relógio em forma de texto.
 - Com dia, semana, mês e ano.
