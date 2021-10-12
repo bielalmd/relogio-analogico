@@ -98,4 +98,6 @@ themeButton.addEventListener('click', () => {
     themeButton.classList.toggle(iconTheme)
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
+      
+      // teste 
 })
